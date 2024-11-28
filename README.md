@@ -101,3 +101,95 @@ With simple lessons and practical exercises, you’ll gain the confidence to use
 ---
 
 Each course is designed with interactive activities, listening exercises, and real-world practice to ensure strong language skills and confidence in speaking German.
+
+### **Introduction to German Language: Alphabets, Numbers, Greetings, and Basic Phrases**
+
+---
+
+#### **1. German Alphabets**  
+The German alphabet has 26 letters, plus special characters: *ä, ö, ü, ß*.  
+
+| Letter | Pronunciation Example |  
+|--------|------------------------|  
+| A      | ah (*Apfel*) - apple  |  
+| B      | bay (*Ball*) - ball   |  
+| C      | tsay (*Café*) - cafe  |  
+| D      | day (*Dach*) - roof   |  
+| E      | eh (*Esel*) - donkey  |  
+| F      | eff (*Fisch*) - fish  |  
+| G      | gay (*Garten*) - garden |  
+| H      | hah (*Haus*) - house  |  
+| I      | ee (*Insel*) - island |  
+| J      | yot (*Jahr*) - year   |  
+| K      | kah (*Katze*) - cat   |  
+| L      | ell (*Lampe*) - lamp  |  
+| M      | em (*Maus*) - mouse   |  
+| N      | en (*Nacht*) - night  |  
+| O      | oh (*Oma*) - grandma  |  
+| P      | pay (*Pferd*) - horse |  
+| Q      | koo (*Quelle*) - source |  
+| R      | air (*Rolle*) - roll  |  
+| S      | ess (*Sonne*) - sun   |  
+| T      | tay (*Tisch*) - table |  
+| U      | oo (*Uhr*) - clock   |  
+| V      | fow (*Vogel*) - bird  |  
+| W      | vay (*Wasser*) - water |  
+| X      | ix (*Xylophon*) - xylophone |  
+| Y      | üpsilon (*Yoga*) - yoga |  
+| Z      | tset (*Zug*) - train  |  
+
+---
+
+#### **2. Numbers in German**  
+
+| Number | German       | Pronunciation    |  
+|--------|--------------|------------------|  
+| 0      | Null         | nool            |  
+| 1      | Eins         | ayns            |  
+| 2      | Zwei         | tsvai           |  
+| 3      | Drei         | dry             |  
+| 4      | Vier         | fear            |  
+| 5      | Fünf         | foonf           |  
+| 6      | Sechs        | zeks            |  
+| 7      | Sieben       | zee-ben         |  
+| 8      | Acht         | ahkt            |  
+| 9      | Neun         | noyn            |  
+| 10     | Zehn         | tsayn           |  
+
+---
+
+#### **3. Basic Greetings and Phrases**  
+
+| English               | German           | Pronunciation    |  
+|-----------------------|------------------|------------------|  
+| Hello                 | Hallo            | hah-loh          |  
+| Good morning          | Guten Morgen     | goo-ten mor-gen  |  
+| Good evening          | Guten Abend      | goo-ten ah-bent  |  
+| Good night            | Gute Nacht       | goo-teh nakht    |  
+| How are you?          | Wie geht's?      | vee gates        |  
+| I’m fine, thanks.     | Mir geht’s gut, danke. | meer gates goot, dahn-keh |  
+| What’s your name?     | Wie heißen Sie? (formal) / Wie heißt du? (informal) | vee hi-sen zee / vee hi-st doo |  
+| My name is...         | Ich heiße...     | ikh hi-seh       |  
+| Nice to meet you      | Schön, Sie kennenzulernen. | shern zee ken-en-tsu-lair-nen |  
+| Thank you             | Danke            | dahn-keh         |  
+| You’re welcome        | Bitte            | bit-teh          |  
+| Goodbye               | Auf Wiedersehen  | owf vee-der-zay-en |  
+| Bye                   | Tschüss          | choos            |  
+
+---
+
+#### **4. Useful Everyday Phrases**  
+
+| English                   | German                 | Pronunciation       |  
+|---------------------------|------------------------|---------------------|  
+| Yes                       | Ja                     | yah                 |  
+| No                        | Nein                   | nine                |  
+| Please                    | Bitte                  | bit-teh             |  
+| Excuse me                 | Entschuldigung         | ent-shool-dee-goong |  
+| I don’t understand        | Ich verstehe nicht     | ikh fer-shtay-eh nisht |  
+| Can you help me?          | Können Sie mir helfen? | ker-nen zee meer hel-fen |  
+| Where is the bathroom?    | Wo ist die Toilette?   | voh ist dee toy-let-teh |  
+| How much does this cost?  | Wie viel kostet das?   | vee feel kost-et dahs |  
+| I need help               | Ich brauche Hilfe      | ikh brow-keh hil-feh |  
+
+--- 
