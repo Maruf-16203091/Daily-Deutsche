@@ -100,8 +100,6 @@ With simple lessons and practical exercises, you’ll gain the confidence to use
 
 ---
 
-Each course is designed with interactive activities, listening exercises, and real-world practice to ensure strong language skills and confidence in speaking German.
-
 ### **Introduction to German Language: Alphabets, Numbers, Greetings, and Basic Phrases**
 
 ---
