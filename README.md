@@ -10,7 +10,7 @@ To enhance your speaking abilities, we also offer **Conversation Practice** cour
 - **A2-B1**: Smoothly transition into more advanced dialogues.  
 - **B1**: Polish your conversational skills for real-world scenarios.  
 
-With simple lessons and practical exercises, you’ll gain the confidence to use German in everyday situations. Whether you want to travel, work, or just learn a new language, **Daily Deutsche** makes it easy and fun. Join **Daily Deutsche** and learn German the simple, effective, and enjoyable way!
+With simple lessons and practical exercises, you’ll gain the confidence to use German in everyday situations. Whether you want to travel, work, or just learn a new language, **Daily Deutsche** makes it easy and fun.
 
 ### **Syllabus for Daily Deutsche Courses**  
 
