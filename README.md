@@ -191,3 +191,11 @@ The German alphabet has 26 letters, plus special characters: *ä, ö, ü, ß*.
 | I need help               | Ich brauche Hilfe      | ikh brow-keh hil-feh |  
 
 --- 
+In W-questions, the verb comes after the question word rather than strictly in the second position. The structure looks like this:
+[W-word] + [verb] + [subject]
+Example: Wie alt sind Sie? (How old are you?)
+W-word: Wie
+Verb: sind
+Subject: Sie
+
+--- 
