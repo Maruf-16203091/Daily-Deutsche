@@ -199,3 +199,16 @@ Verb: sind
 Subject: Sie
 
 --- 
+For A1 Course:
+It is expected that candidates will be already familiar with the following:
+ Numbers – (ordinal and cardinal)
+ Days of the week, months of the year and seasons
+ Towns, countries and nationalities
+ Feminine and plural forms of the words listed
+ Prefixes and suffixes of words already listed
+ Target-language words used in English
+ English words used in the target language.
+ Grammatical items and structures figuring in Appendix B in the Specification (e.g.
+conjunctions, prepositions, both simple and compound, reflexives, common adverbs and
+adverbial phrases, etc.)
+ Straightforward and common cognates
